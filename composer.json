@@ -12,10 +12,6 @@
     {
       "name": "Jeremie ALVIN",
       "email": "je.alvin@orange.fr"
-    },
-    {
-      "name": "Anton Medvedev",
-      "email": "anton@medv.io"
     }
   ],
   "autoload": {
