@@ -11,17 +11,11 @@
   "authors": [
     {
       "name": "Jeremie ALVIN",
-      "email": "contact@jeremiealvin.com"
+      "email": "je.alvin@orange.fr"
     },
     {
       "name": "Anton Medvedev",
       "email": "anton@medv.io"
-    }
-  ],
-  "funding": [
-    {
-      "type": "github",
-      "url": "https://github.com/sponsors/antonmedv"
     }
   ],
   "autoload": {
